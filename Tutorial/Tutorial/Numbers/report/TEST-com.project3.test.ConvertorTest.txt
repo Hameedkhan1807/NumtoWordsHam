@@ -1,0 +1,7 @@
+Testsuite: com.project3.test.ConvertorTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.15 sec
+
+Testcase: checklargeNumber took 0.109 sec
+Testcase: checkNegativeNumber took 0 sec
+Testcase: checkInt took 0.001 sec
+Testcase: checkNotNull took 0 sec
